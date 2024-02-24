@@ -4,8 +4,6 @@ I've used yarn to install and run the setup
 1. `yarn install`
 2. `yarn start`
 
-### `yarn install`
-
 This project was created using [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
