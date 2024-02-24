@@ -1,0 +1,37 @@
+[
+	{
+		"ticker": "ALPHA",
+		"price": 3150.67,
+		"assetClass": "Credit"
+	},
+	{
+		"ticker": "BETA",
+		"price": -3150.67,
+		"assetClass": "Equities"
+	},
+	{
+		"ticker": "GAM.BE",
+		"price": 3171.67,
+		"assetClass": "Commodities"
+	},
+	{
+		"ticker": "ALPY",
+		"price": 3990.67,
+		"assetClass": "Credit"
+	},
+	{
+		"ticker": "GAM.BE",
+		"price": -29184.67,
+		"assetClass": "Commodities"
+	},
+	{
+		"ticker": "BEZA",
+		"price": 400.67,
+		"assetClass": "Equities"
+	},
+	{
+		"ticker": "GAM.MA",
+		"price": 0,
+		"assetClass": "Commodities"
+	}
+]
